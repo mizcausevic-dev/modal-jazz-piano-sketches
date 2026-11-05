@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/modal-jazz-piano-sketches-simple-synth-preview.mp3",
+  "preview_sha256": "8f318826bc29a137c27eb0a734bc60f3a854af0280b465e3dec5b670369b4dd0",
+  "source_midi_path": "midi/mjp01-olive-room/mjp01-olive-room-combined.mid",
+  "source_midi_sha256": "1f8815491bbc296b3f4d74ab0d8351b75e8bbcff8babcb92aa80a6def2a11ee9",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "mjp01",
+    "start_seconds": 0,
+    "end_seconds": 80.0
+  },
+  "measurement": {
+    "sample_peak": 0.147278,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}

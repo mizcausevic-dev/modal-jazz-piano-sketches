@@ -1,0 +1,26 @@
+{
+  "title": "Modal Jazz Piano Sketches",
+  "study": "mjp01",
+  "bpm": 96,
+  "source_audio": "preview/modal-jazz-piano-sketches-simple-synth-preview.mp3",
+  "source_audio_sha256": "8f318826bc29a137c27eb0a734bc60f3a854af0280b465e3dec5b670369b4dd0",
+  "source_midi": "midi/mjp01-olive-room/mjp01-olive-room-combined.mid",
+  "source_midi_sha256": "1f8815491bbc296b3f4d74ab0d8351b75e8bbcff8babcb92aa80a6def2a11ee9",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "45864b223a334c6edee109ea12d3a62bc3b12783c95ebf4cf6a6113fc6a97043",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "b4a4aee59e007189d9343e2b7089700df18d77e2506e2f77bcd8c10caae5b509",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "ee12ee680c62c9c4eacd026b822a66ddd03c9d18b6d934c1c12e245c5d6f24ee",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+mjp01,Olive Room,pack-local equal-tempered pitch collection,D,96,4/4,480,32,61440,midi/mjp01-olive-room/mjp01-olive-room-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+mjp02,Soft Fifth,pack-local equal-tempered pitch collection,F,96,4/4,480,32,61440,midi/mjp02-soft-fifth/mjp02-soft-fifth-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+mjp03,Late Paper,pack-local equal-tempered pitch collection,G#,96,4/4,480,32,61440,midi/mjp03-late-paper/mjp03-late-paper-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+mjp04,Small Hours,pack-local equal-tempered pitch collection,D#,96,4/4,480,32,61440,midi/mjp04-small-hours/mjp04-small-hours-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums

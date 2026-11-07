@@ -278,8 +278,8 @@
     },
     {
       "path": "downloads/modal-jazz-piano-sketches-midi.zip",
-      "bytes": 32149,
-      "sha256": "1e497a711ecd0b69a0975ee09dd67cc4d67ae63c500f4abd7bb45f629bc7e05a"
+      "bytes": 34071,
+      "sha256": "7692056dcd640b0c68fbb18d7fefd3271d694205f79d2e411f31357e000efa48"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -313,8 +313,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9578,
-      "sha256": "27a86ee0e32520ed7c789aa40e6996dc8f4f5cc05c824a414d77d947760bba1d"
+      "bytes": 9768,
+      "sha256": "9aceb075175ab43e3fb4664e5ef09477a7e5bbcf5226c44c100f9c04bd9cd849"
     },
     {
       "path": "midi/mjp01-olive-room/chord_pulse.mid",
@@ -457,6 +457,11 @@
       "sha256": "dc8f436a115d6435465d92f9545e0b909ee74b4438ed775c210abe478951853e"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/modal-jazz-piano-sketches-simple-synth-preview.mp3",
       "bytes": 1933523,
       "sha256": "8f318826bc29a137c27eb0a734bc60f3a854af0280b465e3dec5b670369b4dd0"
@@ -468,8 +473,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3904,
-      "sha256": "4be416a3872beb77cc0ae5b61c06091adbe716da0c050b92abb506ae1bf0aade"
+      "bytes": 4019,
+      "sha256": "33b1ec88e6715f4cabb916aac8f3f9c9e988e46a6d7bc58deeab593bd6bd434b"
     },
     {
       "path": "social/instagram/caption.txt",
